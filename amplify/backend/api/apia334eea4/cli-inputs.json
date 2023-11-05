@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/practice": {
+      "name": "/practice",
+      "lambdaFunction": "S3Trigger6dbd42ee",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
